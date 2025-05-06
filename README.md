@@ -14,7 +14,7 @@ pip3 install git+https://github.com/devanshbatham/ParamSpider <br>
 git clone https://github.com/GerbenJavado/LinkFinder ~/tools/LinkFinder <br>
 
 
-Usage:
+<h1>Usage:</h1> <br>
 chmod +x full-recon-xss.sh <br>
 ./full-recon-xss.sh <br>
 
