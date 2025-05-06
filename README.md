@@ -8,6 +8,8 @@ go install github.com/lc/gau/v2/cmd/gau@latest <br>
 go install github.com/projectdiscovery/httpx/cmd/httpx@latest <br>
 go install github.com/hahwul/dalfox/v2@latest <br>
 go install github.com/Emoe/kxss@latest <br>
+<h3>After Install all use shortcut command for evry tool move local</h3> <br>
+sudo cp ~/go/bin/dalfox /bin/
 
 # Python tools
 pip3 install git+https://github.com/devanshbatham/ParamSpider <br>
